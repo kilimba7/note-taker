@@ -74,5 +74,7 @@
   "bugs": {
     "url": "https://github.com/kilimba7/note-taker/issues"
   },
-  "homepage": "https://github.com/kilimba7/note-taker#readme"
+  "homepage": "https://github.com/kilimba7/note-taker#readme",
+  "devDependencies": {},
+  "keywords": []
 }
