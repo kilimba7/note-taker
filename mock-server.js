@@ -15,7 +15,6 @@ const { notes } = require('./develop/db/db.json');
 
 
 
-
 function findByTitle(title, notesArray) {
     const result = notesArray.filter(note => note.title === title)[0];
     return result;
