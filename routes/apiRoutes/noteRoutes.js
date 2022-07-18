@@ -38,8 +38,9 @@ router.post('/notes', (req, res) => {
 });
 
 
-// Will come back to this delete function (should receive a query parameter containing the id of note, need to read all notes from the db.json file, remove the note with the given id property, and then rewrite the notes to the db.json file.)
+// Will come back to this delete function 
 // router.delete('/notes/:id', (req, res) => {
+//(should receive a query parameter containing the id of note, need to read all notes from the db.json file, remove the note, and rewrite the notes to the db.json file.) }
     
 
 
