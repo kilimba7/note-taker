@@ -59,6 +59,7 @@
     "type-is": "^1.6.18",
     "unpipe": "^1.0.0",
     "utils-merge": "^1.0.1",
+    "uuid": "^8.3.2",
     "vary": "^1.1.2"
   },
   "scripts": {
@@ -75,6 +76,5 @@
     "url": "https://github.com/kilimba7/note-taker/issues"
   },
   "homepage": "https://github.com/kilimba7/note-taker#readme",
-  "devDependencies": {},
   "keywords": []
 }
