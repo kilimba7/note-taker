@@ -19,7 +19,7 @@
   Make sure you are on the correct server and initialize by typing npm start in the command line
 
   ## Usage
-  Demo: 
+  Demo: ![Demo](/assets/css/demo.png?raw=true "My DEMO")
 
   ## License
   No license used: https://choosealicense.com/no-permission/
